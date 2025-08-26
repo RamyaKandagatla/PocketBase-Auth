@@ -41,3 +41,20 @@
    Field-level errors from PB are shown inline (e.g., “password must be at least 8 characters”).
 3. Sidebar overlaps or page scrolls behind
    Ensure global CSS (overflow-x: hidden;) and that Dashboard.tsx applies scroll lock when the drawer is open.
+
+
+# PocketBase Auth App
+
+## Screenshots
+
+### Login Page
+![Login](./screenshots/loginpage.png)
+
+### Register Page
+![Register](./screenshots/registerPage.png)
+
+### Dashboard Page
+![Dashboard](./screenshots/dashboard.png)
+
+### Terms & Conditions
+![Terms & conditions](./screenshots/terms&Conditions.png)
