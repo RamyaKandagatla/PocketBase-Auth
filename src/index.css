@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body { overflow-x: hidden; }
+
+.bg-login{
+  background: url("https://storage.devpgs.app/u/lBhsaY.png") no-repeat center center fixed;
+  background-size: cover;
+}
+

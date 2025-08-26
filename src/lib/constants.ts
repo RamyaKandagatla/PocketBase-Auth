@@ -1,0 +1,1 @@
+export const BRAND_LOGO = 'https://storage.devpgs.app/u/TBBzMH.svg';
